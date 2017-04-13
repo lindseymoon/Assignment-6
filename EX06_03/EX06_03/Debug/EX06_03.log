@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\lmoon20\desktop\ex06_03\ex06_03\main.cpp(73): warning C4700: uninitialized local variable 'gender' used
+  EX06_03.vcxproj -> C:\Users\lmoon20\Desktop\EX06_03\Debug\EX06_03.exe
+  EX06_03.vcxproj -> C:\Users\lmoon20\Desktop\EX06_03\Debug\EX06_03.pdb (Full PDB)
